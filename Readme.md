@@ -10,4 +10,6 @@ Nearest neighbour search: [wiki](https://en.wikipedia.org/wiki/K-d_tree#Nearest_
 
 获取 2d 平面中离将要插入的点最近的点, 如果将要插入的点离该点的距离大于指定的最小距离, 则插入该点
 
+Online demo: [github-pages](https://mxxxxxs.github.io/Kd-tree-nearest-neighbor-search/)
+
 ![ ui ](misc/ui.png)
